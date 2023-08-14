@@ -1,5 +1,5 @@
 # STA380 ML part 2 - Take home assignment
-#### Group members: Sankalp Kulkarni (sk57727), Srishty Mishra, Anmol Agarwal, Aishwarya Parida
+#### Group members: Sankalp Kulkarni (sk57727), Srishty Mishra, Anmol Agarwal, Aishwarya
 
 Q1 to Q7: Probablity Practise to The Reuters Corpus:
 Solution is in Jupyter notebook named: 
